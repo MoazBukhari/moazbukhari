@@ -19,6 +19,8 @@ Curious learner and problem-solver, exploring automation, web scraping, and AI i
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=MySQL&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
 ---
 
@@ -31,6 +33,6 @@ Curious learner and problem-solver, exploring automation, web scraping, and AI i
 ---
 
 ## 📫 Connect with Me
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazbukhariofficial@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-bukhari)  
-- [![GitHub](https://img.shields.io/badge/github-%23222222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moazbukhari)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazbukhariofficial@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-bukhari)  
+[![GitHub](https://img.shields.io/badge/github-%23222222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moazbukhari)  

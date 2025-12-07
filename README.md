@@ -5,7 +5,7 @@
 Curious learner and problem-solver, exploring automation, web scraping, and AI integrations to turn complex challenges into simple, efficient workflows.
 
 🎓 BS Computer Science (2022–2026), Islamia University of Bahawalpur  
-📜 Google IT Automation with Python (in progress)  
+📜 Google IT Automation with Python (Completed)  
 
 ---
 

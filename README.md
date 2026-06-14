@@ -25,10 +25,7 @@ Curious learner and problem-solver, exploring automation, web scraping, and AI i
 ---
 
 ##  Currently Learning
-- Google IT Automation with Python (Coursera)
-- Shell Script, Debugging & Testing in Python  
-- Advanced Git & GitHub for real-world projects  
-- Building scalable automation systems with Gemini AI  
+- Building scalable automation systems with AI  
 
 ---
 
